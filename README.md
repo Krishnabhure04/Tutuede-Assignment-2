@@ -1,4 +1,4 @@
-# Tutuede-Assignment-2
+# Tutetude-Assignment-2
 
 Task 1: Check if a Number is Even or Odd
 Problem Statement:  Write a Python program that:
